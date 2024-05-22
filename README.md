@@ -1,5 +1,7 @@
 # Proyecto WSL
-![portada](img/descarga.png)
+<p align="center">
+   <img src="img/descarga.png" alt="portada"/>
+</p>
 ## Descripción del Repositorio
 
 Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linux (WSL). WSL es una característica poderosa de Windows que permite a los usuarios ejecutar un entorno Linux completo dentro de Windows, sin la necesidad de una máquina virtual o un arranque dual. Este proyecto está diseñado para proporcionar una guía comprensiva sobre WSL, incluyendo su instalación, configuración y uso.
