@@ -14,7 +14,7 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Beneficios y usos principales.
    - Diferencias entre WSL 1 y WSL 2.
 
-**Enlace a:** [Introducción (¿Qué es WSL?)](#introducción-qu%C3%A9-es-wsl)
+**Enlace a:** [Introducción (¿Qué es WSL?)] (#quees)
 
 2. **Guía de Instalación**:
    - Instrucciones paso a paso para habilitar y configurar WSL en Windows 11.
@@ -29,7 +29,7 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Integración y ejecución de comandos de Windows desde WSL y viceversa.
    - Herramientas y comandos útiles para la administración del entorno WSL.
 
-**Enlace a:** [Procesos Asociados WSL](#procesos.md)
+**Enlace a:** [Procesos Asociados WSL] (#procesos.md)
 
 ## Objetivo del Proyecto
 
