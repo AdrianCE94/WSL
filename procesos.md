@@ -22,4 +22,9 @@ Desde PowerShell, puedes ejecutar comandos de WSL:
 ```
 wsl ls -la
 ```
+<p align="center">
 ![processimg](img/processimg.webp)
+</p>
+<br>
+<br>
+<a href="README.md"><img src="img/arrow.png" alt="Volver al README" width="100"></a>
