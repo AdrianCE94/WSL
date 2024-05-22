@@ -68,4 +68,4 @@ Para ejecutar una distribución de WSL específica desde PowerShell o el Símbol
 - **Integración:** Mayor integración con el sistema de archivos y la red de Windows.
 - **Administración de recursos:** Permite controlar la asignación de recursos de CPU y memoria para las distribuciones de Linux.
 
- [![Volver al README](:arrow_backward:)](README.md)
+ [![Volver al README](img/back.png)](README.md)
