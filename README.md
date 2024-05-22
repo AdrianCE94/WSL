@@ -23,7 +23,7 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
 **Enlace a:** [Guía de Instalación](guia.md)
 
 3. **Instalación de Distribuciones Linux**:
-   - Instrucciones detalladas para instalar y configurar Debian y Ubuntu desde Microsoft Store.
+   - Instrucciones detalladas para instalar y configurar Debian y Ubuntu.
    - Consejos para gestionar múltiples distribuciones.
 
 4. **Procesos Asociados a WSL**:
@@ -39,6 +39,16 @@ El objetivo de este proyecto es proporcionar una referencia clara y accesible pa
 - Configurar y utilizar WSL de manera efectiva.
 - Explorar y entender las diferencias entre varias distribuciones de Linux en WSL.
 - Aprovechar las capacidades de WSL para mejorar sus procesos de desarrollo y administración de sistemas.
+
+## WEBGRAFÍA
+
+[XATAKA](https://www.xataka.com/)
+
+Xataka es un sitio web de tecnología que ofrece análisis y reseñas sobre una amplia gama de periféricos, desde ratones y teclados hasta monitores y auriculares, ayudando a los usuarios a tomar decisiones informadas en sus compras.
+
+[CHATGPT](https://chat.openai.com/)
+
+[MICROSOFT](https://learn.microsoft.com/es-es/windows/wsl/install)
 
 ## Cómo Contribuir
 
