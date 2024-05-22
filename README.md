@@ -29,6 +29,8 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Integración y ejecución de comandos de Windows desde WSL y viceversa.
    - Herramientas y comandos útiles para la administración del entorno WSL.
 
+**Enlace a:** [Procesos Asociados WSL](#procesos-asociados-wsl)
+
 ## Objetivo del Proyecto
 
 El objetivo de este proyecto es proporcionar una referencia clara y accesible para estudiantes, desarrolladores y entusiastas de la tecnología que deseen aprender sobre WSL y cómo integrarlo en su flujo de trabajo diario. A través de guías prácticas y ejemplos detallados, los usuarios podrán:
