@@ -42,13 +42,13 @@ El objetivo de este proyecto es proporcionar una referencia clara y accesible pa
 
 ## REFERENCIAS
 <p align="center">
-[XATAKA]            <a href="https://www.xataka.com/" target="_blank" title="Ir aquí">Texto o imagen</a>
+          <a href="https://www.xataka.com/" target="_blank" title="Ir aquí">[XATAKA]</a>
 </p>
 <p align="center">
-[CHATGPT]           <a href="https://chat.openai.com/" target="_blank" title="Ir aquí">Texto o imagen</a> 
+          <a href="https://chat.openai.com/" target="_blank" title="Ir aquí">[CHATGPT] </a> 
 </p>
 <p align="center">
-[MICROSOFT]         <a href=" https://learn.microsoft.com/es-es/windows/wsl/install" target="_blank" title="Ir aquí">Texto o imagen</a> 
+       <a href=" https://learn.microsoft.com/es-es/windows/wsl/install" target="_blank" title="Ir aquí">[MICROSOFT]  </a> 
 </p>
 
 ## Cómo Contribuir
