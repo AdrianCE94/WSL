@@ -23,7 +23,7 @@ Desde PowerShell, puedes ejecutar comandos de WSL:
 wsl ls -la
 ```
 <p align="center">
-![processimg](img/processimg.webp)
+<img src="img/processimg.webp" alt="process"/>
 </p>
 <br>
 <br>
