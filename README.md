@@ -14,12 +14,12 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Beneficios y usos principales.
    - Diferencias entre WSL 1 y WSL 2.
 
-**Enlace a:** [Introducción (¿Qué es WSL?)](/#quees.md)
+**Enlace a:** [Introducción (¿Qué es WSL?)](quees.md)
 
 2. **Guía de Instalación**:
    - Instrucciones paso a paso para habilitar y configurar WSL en Windows 11.
    - Configuración de WSL 2 como versión predeterminada.
-
+**Enlace a:** [Guía de Instalación](guia.md)
 3. **Instalación de Distribuciones Linux**:
    - Instrucciones detalladas para instalar y configurar Debian y Ubuntu desde Microsoft Store.
    - Consejos para gestionar múltiples distribuciones.
@@ -29,7 +29,7 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Integración y ejecución de comandos de Windows desde WSL y viceversa.
    - Herramientas y comandos útiles para la administración del entorno WSL.
 
-**Enlace a:** [Procesos Asociados WSL](/#procesos.md)
+**Enlace a:** [Procesos Asociados WSL](procesos.md)
 
 ## Objetivo del Proyecto
 
