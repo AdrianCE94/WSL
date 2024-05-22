@@ -22,23 +22,4 @@ Desde PowerShell, puedes ejecutar comandos de WSL:
 ```
 wsl ls -la
 ```
-
-## WSL 1
-
-- **Arquitectura:** Basada en una traducción dinámica de llamadas de sistema de Linux a llamadas de sistema de Windows.
-- **Kernel:** Utiliza el kernel de Windows para ejecutar binarios de Linux.
-- **Rendimiento de E/S:** Limitado por la traducción de llamadas de sistema y la implementación del sistema de archivos.
-- **Rendimiento de red:** Depende de la pila de red de Windows.
-- **Requisitos del sistema:** Funciona en todas las ediciones de Windows 10.
-- **Integración:** Limitada con el sistema de archivos y la red de Windows.
-- **Administración de recursos:** No ofrece control sobre la asignación de recursos de CPU y memoria para las distribuciones de Linux.
-
-## WSL 2
-
-- **Arquitectura:** Basada en una máquina virtual ligera.
-- **Kernel:** Utiliza un kernel Linux completo.
-- **Rendimiento de E/S:** Mejorado gracias a la virtualización de sistemas de archivos y el uso del kernel Linux.
-- **Rendimiento de red:** Mejorado gracias a la integración de la pila de red de Linux.
-- **Requisitos del sistema:** Requiere Windows 10 versión 1903 o posterior con virtualización habilitada.
-- **Integración:** Mayor integración con el sistema de archivos y la red de Windows.
-- **Administración de recursos:** Permite controlar la asignación de recursos de CPU y memoria para las distribuciones de Linux.
+![processimg](img/processimg.webp)
