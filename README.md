@@ -44,8 +44,8 @@ El objetivo de este proyecto es proporcionar una referencia clara y accesible pa
 <p align="center">
 [XATAKA](https://www.xataka.com/)
 [CHATGPT](https://chat.openai.com/)
-
 [MICROSOFT](https://learn.microsoft.com/es-es/windows/wsl/install)
+</p>
 
 ## Cómo Contribuir
 
