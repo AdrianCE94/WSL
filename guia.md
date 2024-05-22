@@ -67,3 +67,5 @@ Para ejecutar una distribución de WSL específica desde PowerShell o el Símbol
 - **Requisitos del sistema:** Requiere Windows 10 versión 1903 o posterior con virtualización habilitada.
 - **Integración:** Mayor integración con el sistema de archivos y la red de Windows.
 - **Administración de recursos:** Permite controlar la asignación de recursos de CPU y memoria para las distribuciones de Linux.
+
+ [![Volver al README](:arrow_backward:)](README.md)
