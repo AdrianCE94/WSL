@@ -40,7 +40,7 @@ El objetivo de este proyecto es proporcionar una referencia clara y accesible pa
 - Explorar y entender las diferencias entre varias distribuciones de Linux en WSL.
 - Aprovechar las capacidades de WSL para mejorar sus procesos de desarrollo y administración de sistemas.
 
-## WEBGRAFÍA
+## REFERENCIAS
 
 [XATAKA](https://www.xataka.com/)
 
