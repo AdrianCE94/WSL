@@ -41,9 +41,9 @@ El objetivo de este proyecto es proporcionar una referencia clara y accesible pa
 - Aprovechar las capacidades de WSL para mejorar sus procesos de desarrollo y administración de sistemas.
 
 ## REFERENCIAS
-
+<p align="center">
 [XATAKA](https://www.xataka.com/)
-
+</p>
 Xataka es un sitio web de tecnología que ofrece análisis y reseñas sobre una amplia gama de periféricos, desde ratones y teclados hasta monitores y auriculares, ayudando a los usuarios a tomar decisiones informadas en sus compras.
 
 [CHATGPT](https://chat.openai.com/)
