@@ -46,7 +46,7 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE). Siéntete libre d
 
 ## AUTORES
 
-* :pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
+ :pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
 
 [![Forks proyecto](https://img.shields.io/badge/Forks-yellow)](https://github.com/AdrianCE94/WSL/forks)
 [![Actividad de proyecto](https://img.shields.io/badge/Actividad-red)](https://github.com/AdrianCE94/WSL/activity)
