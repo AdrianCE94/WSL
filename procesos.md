@@ -17,3 +17,8 @@ En el entorno de Windows Subsystem for Linux (WSL), existen procesos asociados q
 #### Monitorización y Gestión:
 
 Es importante monitorear y gestionar adecuadamente los procesos asociados a WSL para garantizar un funcionamiento óptimo del entorno. Esto puede implicar la supervisión de recursos, la resolución de problemas de rendimiento y la gestión de servicios en ejecución según sea necesario.
+
+Desde PowerShell, puedes ejecutar comandos de WSL:
+```
+wsl ls -la
+```
