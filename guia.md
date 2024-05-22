@@ -21,7 +21,7 @@ La primera vez que inicie una distribución de Linux recién instalada, se abrir
 ````poweshell
 wsl --list --online para ver una lista de distribuciones disponibles y ejecute 
 wsl --install -d <DistroName> para instalar una distribución.
-
+```
 ## Cambio de la distribución predeterminada de Linux instalada
 
 De forma predeterminada, la distribución de Linux instalada será Ubuntu. Se puede cambiar mediante la marca `-d`.
