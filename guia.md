@@ -47,7 +47,8 @@ Para establecer la distribución predeterminada de Linux que se usa con el coman
 Para ejecutar una distribución de WSL específica desde PowerShell o el Símbolo del sistema de Windows sin cambiar la distribución predeterminada, use el comando `wsl -d <Nombre de la Distribución>`, reemplazando `<Nombre de la Distribución>` por el nombre de la distribución que desea usar.
 
 +  más COMANDOS [aqui]( https://learn.microsoft.com/es-es/windows/wsl/basic-commands)
-  
+
+# DIFERENCIAS
 ## WSL 1
 
 - **Arquitectura:** Basada en una traducción dinámica de llamadas de sistema de Linux a llamadas de sistema de Windows.
