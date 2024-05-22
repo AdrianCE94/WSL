@@ -19,7 +19,9 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
 2. **Guía de Instalación**:
    - Instrucciones paso a paso para habilitar y configurar WSL en Windows 11.
    - Configuración de WSL 2 como versión predeterminada.
+
 **Enlace a:** [Guía de Instalación](guia.md)
+
 3. **Instalación de Distribuciones Linux**:
    - Instrucciones detalladas para instalar y configurar Debian y Ubuntu desde Microsoft Store.
    - Consejos para gestionar múltiples distribuciones.
