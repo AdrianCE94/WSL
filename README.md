@@ -17,7 +17,7 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
 **Enlace a:** [Introducción (¿Qué es WSL?)](#introducción-qu%C3%A9-es-wsl)
 
 2. **Guía de Instalación**:
-   - Instrucciones paso a paso para habilitar y configurar WSL en Windows 10 y Windows 11.
+   - Instrucciones paso a paso para habilitar y configurar WSL en Windows 11.
    - Configuración de WSL 2 como versión predeterminada.
 
 3. **Instalación de Distribuciones Linux**:
