@@ -36,7 +36,9 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 ## ¿Qué procesadores admite WSL?
 
 - WSL admite CPU x64 y Arm.
-- 
+
+### COMPARATIVA
+![comparativa](img/comparativa.jpeg)
 <br>
 <br>
 <a href="README.md"><img src="img/arrow.png" alt="Volver al README" width="100"></a>

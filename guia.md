@@ -37,6 +37,7 @@ Para instalar distribuciones de Linux adicionales después de la instalación in
 ### Sugerencia
 
 Si desea instalar distribuciones adicionales desde dentro de una línea de comandos de Linux/Bash (en lugar de hacerlo desde PowerShell o el símbolo del sistema), debe usar `.exe` en el comando `wsl.exe --install -d <Nombre de la Distribución>` o para enumerar las distribuciones disponibles: `wsl.exe -l -o`.
+*Se recomienda instalar Windows terminal desde Microsoft Store*
 
 ## Comprobación de la versión de WSL que se está ejecutando
 
