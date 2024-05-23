@@ -40,7 +40,7 @@ Una máquina virtual requiere de la instalación de un sistema operativo complet
    - ¿Cómo desinstalar WSL?
    - ¿Cómo hacer una copia de seguridad?
 
-**Enlace a:** [Desinstalacion y copia de seguridad ](des&copy.md)
+**Enlace a:** [Desinstalación y copia de seguridad ](des&copy.md)
 
 ## Objetivo del Proyecto
 
