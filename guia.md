@@ -11,8 +11,18 @@ Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y
 
 ```powershell
 wsl --install
-wsl --list --online para ver una lista de distribuciones disponibles y ejecute 
-wsl --install -d <DistroName> para instalar una distribución.
+wsl --list --online  #para ver una lista de distribuciones disponibles y ejecute 
+wsl --install -d <DistroName>  #para instalar una distribución.
+
+#Reiniar Maquina
+#COMPROBACIONES
+	
+	wsl --list --verbose #VER DISTROS INSTALADAS
+	wsl --update
+	wsl --version
+	wsl --status
+	wsl --help
+	wsl --shutdown
 ```
 
 >Aplicamos el comando wsl --install
@@ -35,6 +45,11 @@ Para ver una lista de las distribuciones de Linux disponibles para descargar a t
 
 Para instalar distribuciones de Linux adicionales después de la instalación inicial, también puede usar el comando `wsl --install -d <Nombre de la Distribución>`.
 
+>EJEMPLO INSTALANDO KALI-LINUX
+
+![3](img/3.png)
+
+
 ### Sugerencia
 
 Si desea instalar distribuciones adicionales desde dentro de una línea de comandos de Linux/Bash (en lugar de hacerlo desde PowerShell o el símbolo del sistema), debe usar `.exe` en el comando `wsl.exe --install -d <Nombre de la Distribución>` o para enumerar las distribuciones disponibles: `wsl.exe -l -o`.
@@ -43,6 +58,8 @@ Si desea instalar distribuciones adicionales desde dentro de una línea de coman
 ## Comprobación de la versión de WSL que se está ejecutando
 
 Para enumerar las distribuciones de Linux instaladas y comprobar en qué versión de WSL está establecida cada una, puede escribir el comando `wsl -l -v` en PowerShell o en el Símbolo del sistema de Windows.
+
+
 
 Para establecer la versión predeterminada en WSL 1 o WSL 2 cuando se instala una nueva distribución de Linux, use el comando `wsl --set-default-version <Número de Versión>`, reemplazando `<Número de Versión>` por 1 o 2.
 
