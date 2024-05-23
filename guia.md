@@ -3,21 +3,19 @@ Los desarrolladores pueden acceder a la potencia de Windows y Linux al mismo tie
 
 ## Prerrequisitos
 
-Para ejecutar los siguientes comandos, debe ejecutar Windows 10 versión 2004 y posteriores (compilación 19041 y posteriores) o Windows 11. Si está en versiones anteriores, consulte la [página de instalación manual](https://learn.microsoft.com/es-es/windows/wsl/install-manual).
+Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y posteriores (compilación 19041 y posteriores) o Windows 11. Si está en versiones anteriores, consulte la [página de instalación manual](https://learn.microsoft.com/es-es/windows/wsl/install-manual).
 
 
 ## Comando de instalación de WSL
-
-Ahora puede instalar todo lo que necesita para ejecutar WSL con un solo comando. Abra PowerShell o el símbolo del sistema de Windows como administrador; para ello, haga clic con el botón derecho y seleccione "Ejecutar como administrador", escriba el comando `wsl --install` y reinicie la máquina.
-
 ### PowerShell
 
 ```powershell
 wsl --install
+```
+> aplicamos el comando wsl --install
+ ![1](img/1.png)
+Este comando habilitará las características necesarias para ejecutar WSL e instalará la **distribución Ubuntu** de Linux. (Esta distribución predeterminada se puede cambiar).
 
-Este comando habilitará las características necesarias para ejecutar WSL e instalará la distribución Ubuntu de Linux. (Esta distribución predeterminada se puede cambiar).
-
-La primera vez que inicie una distribución de Linux recién instalada, se abrirá una ventana de la consola y se le pedirá que espere a que los archivos se descompriman y se almacenen en el equipo. Todos los inicios posteriores deberían tardar menos de un segundo en completarse.
 ````poweshell
 wsl --list --online para ver una lista de distribuciones disponibles y ejecute 
 wsl --install -d <DistroName> para instalar una distribución.
@@ -51,3 +49,4 @@ Para ejecutar una distribución de WSL específica desde PowerShell o el Símbol
 <br>
 <br>
 <a href="README.md"><img src="img/arrow.png" alt="Volver al README" width="100"></a>
+
