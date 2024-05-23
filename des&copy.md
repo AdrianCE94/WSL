@@ -11,12 +11,12 @@ Además, puede desinstalar la aplicación de distribución de Linux en la máqui
 
 La mejor manera de realizar copias de seguridad o mover las distribuciones es a través de los comandos de exportación e importacióndisponibles en Windows versión 1809 y posteriores. Puedes exportar toda la distribución a un tarball mediante el comando
 ```powershell  
-'wsl --export'
+wsl --export <Distribution Name> <FileName>
 ```
 Después, puede volver a importar esta distribución en WSL mediante el 
 
 ```powershell  
-'wsl --import'
+wsl --import <Distribution Name> <InstallLocation> <FileName>
 ```
 
 Puede asignar un nombre a una nueva ubicación de unidad para la importación, lo que le permite realizar copias de seguridad y guardar los estados de (o mover) las distribuciones de WSL.
