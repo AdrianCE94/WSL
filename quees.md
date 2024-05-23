@@ -10,8 +10,6 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 - **Rendimiento:** Ofrece un mejor rendimiento que las máquinas virtuales, ya que no hay una sobrecarga significativa.
 - **Facilidad de uso:** Se integra con las aplicaciones y sistemas de archivos de Windows.
 
-![quees](img/quees.png)
-
 # DIFERENCIAS
 ## WSL 1
 
@@ -23,9 +21,10 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 - **Integración:** Limitada con el sistema de archivos y la red de Windows.
 - **Administración de recursos:** No ofrece control sobre la asignación de recursos de CPU y memoria para las distribuciones de Linux.
 
-![comparativa](img/comparativa.jpeg)
 
-
+<p align="center">
+<img src="img/comparativa.jpeg" alt="compatativr" width="200">
+</p>
 
 ## WSL 2
 
