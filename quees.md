@@ -1,6 +1,6 @@
 ## 1. Introducción: ¿Qué es WSL?
 
-
+![Qué es WSL](img/quees.png)
 
 WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows 11 que permite a los usuarios ejecutar un entorno GNU/Linux directamente en Windows, sin necesidad de una máquina virtual o un arranque dual. WSL permite la ejecución de binarios de Linux en Windows de forma nativa, proporcionando una integración perfecta entre los dos sistemas operativos.
 
