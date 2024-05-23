@@ -25,6 +25,8 @@
      ```
 
 ### Instalación de Ubuntu en WSL
+<br>
+<br>
 
 ![debian](img/ubuntu.png)
 1. **Habilitar WSL y instalar Ubuntu**:
