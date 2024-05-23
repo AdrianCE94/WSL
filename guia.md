@@ -11,15 +11,18 @@ Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y
 
 ```powershell
 wsl --install
-```
-> aplicamos el comando wsl --install
- ![1](img/1.png)
-Este comando habilitará las características necesarias para ejecutar WSL e instalará la **distribución Ubuntu** de Linux. (Esta distribución predeterminada se puede cambiar).
-
-````poweshell
 wsl --list --online para ver una lista de distribuciones disponibles y ejecute 
 wsl --install -d <DistroName> para instalar una distribución.
 ```
+
+Aplicamos el comando wsl --install
+
+![1](img/1.png)
+Este comando habilitará las características necesarias para ejecutar WSL e instalará la **distribución Ubuntu** de Linux. (Esta distribución predeterminada se puede cambiar).
+
+Vemos las Distribuciones disponibles
+![2](img/2.png)
+
 ## Cambio de la distribución predeterminada de Linux instalada
 
 De forma predeterminada, la distribución de Linux instalada será Ubuntu. Se puede cambiar mediante la marca `-d`.
@@ -40,9 +43,8 @@ Para enumerar las distribuciones de Linux instaladas y comprobar en qué versió
 
 Para establecer la versión predeterminada en WSL 1 o WSL 2 cuando se instala una nueva distribución de Linux, use el comando `wsl --set-default-version <Número de Versión>`, reemplazando `<Número de Versión>` por 1 o 2.
 
-Para establecer la distribución predeterminada de Linux que se usa con el comando `wsl`, escriba `wsl -s <Nombre de la Distribución>` o `wsl --set-default <Nombre de la Distribución>`, reemplazando `<Nombre de la Distribución>` por el nombre de la distribución de Linux que le gustaría usar. Por ejemplo, en PowerShell/CMD, escriba `wsl -s Debian` para establecer la distribución predeterminada en Debian. Ahora, al ejecutar `wsl npm init` desde PowerShell, se ejecutará el comando `npm init` en Debian.
 
-Para ejecutar una distribución de WSL específica desde PowerShell o el Símbolo del sistema de Windows sin cambiar la distribución predeterminada, use el comando `wsl -d <Nombre de la Distribución>`, reemplazando `<Nombre de la Distribución>` por el nombre de la distribución que desea usar.
+
 
 +  más COMANDOS [aqui]( https://learn.microsoft.com/es-es/windows/wsl/basic-commands)
 
