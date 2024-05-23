@@ -4,7 +4,9 @@
 
 ### Instalación de Debian en WSL
 
-![debian](img/debianlogo.png)
+<p align="center">
+   <img src="img/debianlogo.png" alt="portada"/>
+</p>
 
 1. **Habilitar WSL y instalar Debian**:
    - Abre PowerShell como administrador y ejecuta:
