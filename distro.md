@@ -3,7 +3,9 @@
 ## Instrucciones detalladas para instalar y configurar Debian y Ubuntu en WSL
 
 ### Instalación de Debian en WSL
+
 ![debian](img/debianlogo.png)
+
 1. **Habilitar WSL y instalar Debian**:
    - Abre PowerShell como administrador y ejecuta:
      ```powershell
@@ -21,6 +23,7 @@
      ```
 
 ### Instalación de Ubuntu en WSL
+
 ![debian](img/ubuntu.png)
 1. **Habilitar WSL y instalar Ubuntu**:
    - Abre PowerShell como administrador y ejecuta:
