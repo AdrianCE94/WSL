@@ -23,7 +23,7 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 
 
 <p align="center">
-<img src="img/comparativa.jpeg" alt="compatativr" width="200">
+<img src="img/comparativa.jpeg" alt="compatativr" width="400">
 </p>
 
 ## WSL 2
