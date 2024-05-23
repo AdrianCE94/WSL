@@ -15,12 +15,13 @@ wsl --list --online para ver una lista de distribuciones disponibles y ejecute
 wsl --install -d <DistroName> para instalar una distribución.
 ```
 
-Aplicamos el comando wsl --install
+>Aplicamos el comando wsl --install
 
 ![1](img/1.png)
-Este comando habilitará las características necesarias para ejecutar WSL e instalará la **distribución Ubuntu** de Linux. (Esta distribución predeterminada se puede cambiar).
+>Este comando habilitará las características necesarias para ejecutar WSL e instalará la **distribución Ubuntu** de Linux. (Esta distribución predeterminada se puede cambiar).
 
-Vemos las Distribuciones disponibles
+>Vemos las Distribuciones disponibles
+
 ![2](img/2.png)
 
 ## Cambio de la distribución predeterminada de Linux instalada

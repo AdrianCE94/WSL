@@ -26,6 +26,8 @@ Este repositorio contiene un proyecto educativo sobre Windows Subsystem for Linu
    - Instrucciones detalladas para instalar y configurar Debian y Ubuntu.
    - Consejos para gestionar múltiples distribuciones.
 
+**Enlace a:** [Instalación de distribuciones](distro.md)
+
 4. **Procesos Asociados a WSL**:
    - Gestión y monitorización de procesos en WSL.
    - Integración y ejecución de comandos de Windows desde WSL y viceversa.
