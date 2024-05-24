@@ -35,16 +35,19 @@ wsl --install -d <DistroName>  #para instalar una distribución.
 
 ![2](img/2.png)
 
+>Ejemplo instalando KALI-LINUX
+
+![3](img/3.png)
+
 ## Cambio de la distribución predeterminada de Linux instalada
 
 De forma predeterminada, la distribución de Linux instalada será Ubuntu. Se puede cambiar mediante la marca `wsl --set-default <Distribucion>`.
 
 Para instalar distribuciones de Linux adicionales después de la instalación inicial, también puede usar el comando `wsl --install -d <Nombre de la Distribución>`.
 
->EJEMPLO INSTALANDO KALI-LINUX
+>Ejemplo cambiando distribución predeterminada
 
-![3](img/3.png)
-
+![7](img/7.png)
 
 ### Sugerencia
 
