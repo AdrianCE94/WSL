@@ -23,7 +23,7 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 
 <br>
 <br>
-
+### COMPARATIVA
 <p align="center">
 <img src="img/comparativa.jpeg" alt="compatativr" width="400">
 </p>
@@ -43,7 +43,7 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 - WSL admite CPU x64 y Arm.
 - Esto amplía significativamente la versatilidad y la utilidad de WSL para desarrolladores y usuarios que trabajan en diferentes arquitecturas de hardware.
 
-### COMPARATIVA
+
 
 <br>
 <br>
