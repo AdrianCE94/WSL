@@ -11,7 +11,7 @@ Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y
 
 ```powershell
 wsl --install
-wsl --list --online  #para ver una lista de distribuciones disponibles y ejecute 
+wsl --list --online  #para ver una lista de distribuciones disponibles 
 wsl --install -d <DistroName>  #para instalar una distribución.
 
 #Reiniar Maquina
