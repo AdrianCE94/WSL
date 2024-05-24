@@ -20,10 +20,11 @@ WSL (Windows Subsystem for Linux) es una característica de Windows 10 y Windows
 - **Requisitos del sistema:** Funciona en todas las ediciones de Windows 10.
 - **Integración:** Limitada con el sistema de archivos y la red de Windows.
 - **Administración de recursos:** No ofrece control sobre la asignación de recursos de CPU y memoria para las distribuciones de Linux.
+<br>
+<p align="center">COMPARATIVA</p> 
+<br>
+<br>
 
-<br>
-<br>
-### COMPARATIVA
 <p align="center">
 <img src="img/comparativa.jpeg" alt="compatativr" width="400">
 </p>
