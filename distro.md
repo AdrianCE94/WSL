@@ -15,6 +15,9 @@
      ```
    - Este comando habilitará WSL, instalará la última versión de WSL 2, y descargará e instalará Debian.
 
+![4](img/4.png)
+
+
 2. **Configurar Debian**:
    - Una vez completada la instalación, Debian se iniciará automáticamente.
    - Configura tu usuario y contraseña.
@@ -35,7 +38,8 @@
      wsl --install -d Ubuntu
      ```
    - Este comando habilitará WSL, instalará la última versión de WSL 2, y descargará e instalará Ubuntu.
-
+![5](img/5.png)
+![6](img/6.png)
 2. **Configurar Ubuntu**:
    - Una vez completada la instalación, Ubuntu se iniciará automáticamente.
    - Configura tu usuario y contraseña.
