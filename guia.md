@@ -37,11 +37,7 @@ wsl --install -d <DistroName>  #para instalar una distribución.
 
 ## Cambio de la distribución predeterminada de Linux instalada
 
-De forma predeterminada, la distribución de Linux instalada será Ubuntu. Se puede cambiar mediante la marca `-d`.
-
-Para cambiar la distribución instalada, escriba: `wsl --install -d <Nombre de la Distribución>`. Reemplace `<Nombre de la Distribución>` por el nombre de la distribución que desea instalar.
-
-Para ver una lista de las distribuciones de Linux disponibles para descargar a través de la tienda en línea, escriba `wsl --list --online` o `wsl -l -o`.
+De forma predeterminada, la distribución de Linux instalada será Ubuntu. Se puede cambiar mediante la marca `wsl --set-default <Distribucion>`.
 
 Para instalar distribuciones de Linux adicionales después de la instalación inicial, también puede usar el comando `wsl --install -d <Nombre de la Distribución>`.
 
