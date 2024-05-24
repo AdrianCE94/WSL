@@ -3,7 +3,7 @@ Los desarrolladores pueden acceder a la potencia de Windows y Linux al mismo tie
 
 ## Prerrequisitos
 
-Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y posteriores (compilación 19041 y posteriores) o Windows 11. Si está en versiones anteriores, consulta la [página de instalación manual](https://learn.microsoft.com/es-es/windows/wsl/install-manual).
+Para ejecutar los siguientes comandos, debes ejecutar Windows 10 versión 2004 y posteriores (compilación 19041 y posteriores) o Windows 11. Si estas en versiones anteriores, consulta la [página de instalación manual](https://learn.microsoft.com/es-es/windows/wsl/install-manual).
 
 
 ## Comando de instalación de WSL
