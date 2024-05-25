@@ -62,7 +62,9 @@ Para enumerar las distribuciones de Linux instaladas y comprobar en qué versió
 
 Para establecer la versión predeterminada en WSL 1 o WSL 2 cuando se instala una nueva distribución de Linux, use el comando `wsl --set-default-version <Número de Versión>`, reemplazando `<Número de Versión>` por 1 o 2.
 
+## TUTORIAL EN YOUTUBE PASO A PASO
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Y4pXh2Ud7A?si=14H6Kz7cbQnGjAtP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 +  más COMANDOS [aqui]( https://learn.microsoft.com/es-es/windows/wsl/basic-commands)
