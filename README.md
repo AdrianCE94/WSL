@@ -20,6 +20,7 @@ Una máquina virtual requiere de la instalación de un sistema operativo complet
 2. **Guía de Instalación**:
    - Instrucciones paso a paso para habilitar y configurar WSL en Windows 11.
    - Configuración de WSL 2 como versión predeterminada.
+   - TUTORIAL EN YOUTUBE
 
 **Enlace a:** [Guía de Instalación](guia.md)
 
