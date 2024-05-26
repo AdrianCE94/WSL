@@ -66,6 +66,7 @@ Para establecer la versión predeterminada en WSL 1 o WSL 2 cuando se instala un
 +  más COMANDOS [aqui]( https://learn.microsoft.com/es-es/windows/wsl/basic-commands)
 
 <br>
+
 ## TUTORIAL EN YOUTUBE PASO A PASO
 
 https://youtu.be/_Y4pXh2Ud7A?si=PvaPVzpgg081RR42
